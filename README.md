@@ -17,6 +17,6 @@ The simulation evaluates the protocol’s resilience against **Photon-Number Spl
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/<your-username>/COW-QKD-QRNG-Simulation.git
+git clone https://github.com/Sharika224/COW-QKD-QRNG-Simulation.git
 cd COW-QKD-QRNG-Simulation
 pip install -r requirements.txt
