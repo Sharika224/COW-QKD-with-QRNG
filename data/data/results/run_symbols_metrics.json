@@ -1,8 +1,0 @@
-{
-  "requested_keys": 10000,
-  "sifted_keys": 996,
-  "qber": 0.4939759036144578,
-  "attack_success_prob": 0.0,
-  "reduction_vs_baseline": 1.0,
-  "csv_path": "C:\\Users\\SARIKA\\Downloads\\COW-QKD-QRNG-Simulation\\data\\results\\run_symbols.csv"
-}
